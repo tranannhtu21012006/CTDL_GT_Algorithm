@@ -1,0 +1,10 @@
+C:\Nhom9_DoAnCTDLGT\Nhom9_DoAnCTDLGT\bin\Debug\Nhom9_DoAnCTDLGT.exe.config
+C:\Nhom9_DoAnCTDLGT\Nhom9_DoAnCTDLGT\bin\Debug\Nhom9_DoAnCTDLGT.exe
+C:\Nhom9_DoAnCTDLGT\Nhom9_DoAnCTDLGT\bin\Debug\Nhom9_DoAnCTDLGT.pdb
+C:\Nhom9_DoAnCTDLGT\Nhom9_DoAnCTDLGT\obj\Debug\Nhom9_DoAnCTDLGT.csproj.AssemblyReference.cache
+C:\Nhom9_DoAnCTDLGT\Nhom9_DoAnCTDLGT\obj\Debug\DijkstraTest2.Form1.resources
+C:\Nhom9_DoAnCTDLGT\Nhom9_DoAnCTDLGT\obj\Debug\Nhom9_DoAnCTDLGT.Properties.Resources.resources
+C:\Nhom9_DoAnCTDLGT\Nhom9_DoAnCTDLGT\obj\Debug\Nhom9_DoAnCTDLGT.csproj.GenerateResource.cache
+C:\Nhom9_DoAnCTDLGT\Nhom9_DoAnCTDLGT\obj\Debug\Nhom9_DoAnCTDLGT.csproj.CoreCompileInputs.cache
+C:\Nhom9_DoAnCTDLGT\Nhom9_DoAnCTDLGT\obj\Debug\Nhom9_DoAnCTDLGT.exe
+C:\Nhom9_DoAnCTDLGT\Nhom9_DoAnCTDLGT\obj\Debug\Nhom9_DoAnCTDLGT.pdb
