@@ -81,7 +81,9 @@ A Windows Forms app that applies Dijkstra's algorithm to find the lowest-cost tr
 | **Output** | Distance, estimated fuel, transport cost, and the route |
 | **Example** | TP. Hồ Chí Minh → Đồng Tháp: **67 km**, **6.03 liters**, route via **Tây Ninh** |
 
-## >_ How to Run
+## ▶️ How to Run
+
+**Requirements:** Windows and [Visual Studio](https://visualstudio.microsoft.com/) with the **.NET desktop development** workload.
 
 1. Clone the repository:
 
@@ -89,8 +91,9 @@ A Windows Forms app that applies Dijkstra's algorithm to find the lowest-cost tr
    git clone https://github.com/tranannhtu21012006/CTDL_GT_Algorithm.git
    ```
 
-2. Open the solution file in **Visual Studio** (requires the _.NET desktop development_ workload).
-3. Press **F5** to build and run, choose a start point and a destination, then click **Tính đường đi**.
+2. Open `DijkstraAlgorithm/DijkstraAlgorithm.sln` in Visual Studio.
+3. Press **F5** (or click **Start**) to build and run.
+4. Choose a start point and a destination, then click **Tính đường đi**.
 
 ## >_ Roadmap
 
